@@ -1,0 +1,10 @@
+C:\Users\funda\source\repos\Görevlerim\Görevlerim\bin\Debug\Görevlerim.exe.config
+C:\Users\funda\source\repos\Görevlerim\Görevlerim\bin\Debug\Görevlerim.exe
+C:\Users\funda\source\repos\Görevlerim\Görevlerim\bin\Debug\Görevlerim.pdb
+C:\Users\funda\source\repos\Görevlerim\Görevlerim\obj\Debug\Görevlerim.csproj.AssemblyReference.cache
+C:\Users\funda\source\repos\Görevlerim\Görevlerim\obj\Debug\Görevlerim.Form1.resources
+C:\Users\funda\source\repos\Görevlerim\Görevlerim\obj\Debug\Görevlerim.Properties.Resources.resources
+C:\Users\funda\source\repos\Görevlerim\Görevlerim\obj\Debug\Görevlerim.csproj.GenerateResource.cache
+C:\Users\funda\source\repos\Görevlerim\Görevlerim\obj\Debug\Görevlerim.csproj.CoreCompileInputs.cache
+C:\Users\funda\source\repos\Görevlerim\Görevlerim\obj\Debug\Görevlerim.exe
+C:\Users\funda\source\repos\Görevlerim\Görevlerim\obj\Debug\Görevlerim.pdb
